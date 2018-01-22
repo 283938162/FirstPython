@@ -1,8 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e4b73d0-a64b-4df2-bf56-0849fafe9c83" name="Default" comment="add netmusic">
+    <list default="true" id="5e4b73d0-a64b-4df2-bf56-0849fafe9c83" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/other.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/tlz/python-base/data_structure.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/tlz/python-base/python-osAndsys.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/tlz/python-base/python-print.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/tlz/python-base/python-string.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/tlz/python-base/python-threading-queue.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/tlz/python-base/python-threading.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/tlz/python-base/python-vars.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/tlz/python-base/temp.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/tlz/python-crawler/KingGloryWallpaper.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/tlz/python-qq/get_all_qqfriends.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/tlz/python-qq/python-logqq.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/tlz/python-qq/qq_all.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/tlz/python-qq/qq_single.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/tlz/python-qq/readme.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/tlz/python-storage/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/tlz/python-storage/python-excel/gushici.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/tlz/python-storage/python-excel/python-excel-test.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/tlz/python-storage/python-excel/python-excel.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/tlz/python-storage/python-txt/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/tlz/python-wordcloud/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/tlz/python-wordcloud/bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/tlz/python-wordcloud/bg2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/tlz/python-wordcloud/simhei.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/tlz/python-wordcloud/ts.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/tlz/python-wordcloud/word_cloud.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/tlz/test/array.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/tlz/test/cookie_login.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/tlz/test/json.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/tlz/test/selenium_chrome.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/tlz/test/selenium_phantomjs.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/tlz/test/tt" />
+      <change beforePath="$PROJECT_DIR$/.idea/FirstPython.iml" afterPath="$PROJECT_DIR$/.idea/FirstPython.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/com/tlz/python-crawler/NeteaseMusic.py" afterPath="$PROJECT_DIR$/com/tlz/python-crawler/NeteaseMusic.py" />
+      <change beforePath="$PROJECT_DIR$/com/tlz/python-crawler/__init__.py" afterPath="$PROJECT_DIR$/com/tlz/python-crawler/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/com/tlz/python-mysql/__init__.py" afterPath="$PROJECT_DIR$/com/tlz/python-storage/python-mysql/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/com/tlz/python-mysql/crawler_mysql.py" afterPath="$PROJECT_DIR$/com/tlz/python-storage/python-mysql/crawler_mysql.py" />
+      <change beforePath="$PROJECT_DIR$/com/tlz/python-mysql/python-crud.py" afterPath="$PROJECT_DIR$/com/tlz/python-storage/python-mysql/python-crud.py" />
+      <change beforePath="$PROJECT_DIR$/com/tlz/test/regex.py" afterPath="$PROJECT_DIR$/com/tlz/test/regex.py" />
+      <change beforePath="$PROJECT_DIR$/com/tlz/test/test.py" afterPath="$PROJECT_DIR$/com/tlz/test/test.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,16 +53,45 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/FirstPython$test.coverage" NAME="test Coverage Results" MODIFIED="1514278776250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com.tlz.test" />
-    <SUITE FILE_PATH="coverage/FirstPython$regex.coverage" NAME="regex Coverage Results" MODIFIED="1514400573863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/test" />
-    <SUITE FILE_PATH="coverage/FirstPython$crawler_shaoit_com.coverage" NAME="crawler-shaoit.com Coverage Results" MODIFIED="1514526717143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/python-crawler" />
+    <SUITE FILE_PATH="coverage/FirstPython$data_structure.coverage" NAME="data_structure Coverage Results" MODIFIED="1516265587182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/python-base" />
+    <SUITE FILE_PATH="coverage/FirstPython$temp.coverage" NAME="temp Coverage Results" MODIFIED="1516449860683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/test" />
+    <SUITE FILE_PATH="coverage/FirstPython$regex.coverage" NAME="regex Coverage Results" MODIFIED="1516581113378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/test" />
+    <SUITE FILE_PATH="coverage/FirstPython$test.coverage" NAME="test Coverage Results" MODIFIED="1516609473958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/test" />
     <SUITE FILE_PATH="coverage/FirstPython$addXmasHat__1_.coverage" NAME="addXmasHat Coverage Results" MODIFIED="1514368043136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/face_recognition" />
-    <SUITE FILE_PATH="coverage/FirstPython$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1514735073256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/python-weixin" />
+    <SUITE FILE_PATH="coverage/FirstPython$selenium_phantomjs.coverage" NAME="selenium_phantomjs Coverage Results" MODIFIED="1516186436492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/test" />
+    <SUITE FILE_PATH="coverage/FirstPython$gushi.coverage" NAME="gushi Coverage Results" MODIFIED="1516348498822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/test" />
+    <SUITE FILE_PATH="coverage/FirstPython$gushici__1_.coverage" NAME="gushici  Coverage Results" MODIFIED="1516349258091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/python-storage/python-excel" />
+    <SUITE FILE_PATH="coverage/FirstPython$python_vars.coverage" NAME="python-vars Coverage Results" MODIFIED="1516443197524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/python-base" />
     <SUITE FILE_PATH="coverage/FirstPython$python_crud.coverage" NAME="python-crud Coverage Results" MODIFIED="1514389675041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/python-mysql" />
+    <SUITE FILE_PATH="coverage/FirstPython$python_excel_test.coverage" NAME="python-excel-test Coverage Results" MODIFIED="1516198207024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/python-storage/python-excel" />
+    <SUITE FILE_PATH="coverage/FirstPython$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1516097842273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/python-QQ" />
+    <SUITE FILE_PATH="coverage/FirstPython$qq.coverage" NAME="qq Coverage Results" MODIFIED="1516335560342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/test" />
+    <SUITE FILE_PATH="coverage/FirstPython$__init____2_.coverage" NAME="__init__ (2) Coverage Results" MODIFIED="1516186801498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/test" />
+    <SUITE FILE_PATH="coverage/FirstPython$wordcloud.coverage" NAME="wordcloud Coverage Results" MODIFIED="1516080892528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/test" />
+    <SUITE FILE_PATH="coverage/FirstPython$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1516084534244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/python-wordcloud" />
+    <SUITE FILE_PATH="coverage/FirstPython$python_excel.coverage" NAME="python-excel Coverage Results" MODIFIED="1516348356043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/python-storage/python-excel" />
+    <SUITE FILE_PATH="coverage/FirstPython$python_print.coverage" NAME="python-print Coverage Results" MODIFIED="1516363724445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/python-base" />
+    <SUITE FILE_PATH="coverage/FirstPython$python_osAndsys.coverage" NAME="python-osAndsys Coverage Results" MODIFIED="1516614813317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/python-base" />
+    <SUITE FILE_PATH="coverage/FirstPython$selenium_chrome.coverage" NAME="selenium_chrome Coverage Results" MODIFIED="1516593021396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/test" />
+    <SUITE FILE_PATH="coverage/FirstPython$qq_single.coverage" NAME="qq_single Coverage Results" MODIFIED="1516590649264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/python-qq" />
+    <SUITE FILE_PATH="coverage/FirstPython$json.coverage" NAME="json Coverage Results" MODIFIED="1516581146483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/test" />
+    <SUITE FILE_PATH="coverage/FirstPython$temp__1_.coverage" NAME="temp (1) Coverage Results" MODIFIED="1516449898008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/python-base" />
+    <SUITE FILE_PATH="coverage/FirstPython$word_cloud.coverage" NAME="word_cloud Coverage Results" MODIFIED="1516612160627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/python-wordcloud" />
+    <SUITE FILE_PATH="coverage/FirstPython$array.coverage" NAME="array Coverage Results" MODIFIED="1516191160987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/test" />
+    <SUITE FILE_PATH="coverage/FirstPython$qq_all.coverage" NAME="qq_all Coverage Results" MODIFIED="1516596735649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/python-qq" />
+    <SUITE FILE_PATH="coverage/FirstPython$python_string.coverage" NAME="python-string Coverage Results" MODIFIED="1516627147358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/python-base" />
+    <SUITE FILE_PATH="coverage/FirstPython$python_logqq.coverage" NAME="python-logqq Coverage Results" MODIFIED="1516188277517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/python-qq" />
+    <SUITE FILE_PATH="coverage/FirstPython$rizhishuoshuo.coverage" NAME="qq_single Coverage Results" MODIFIED="1516368252361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/python-qq" />
+    <SUITE FILE_PATH="coverage/FirstPython$KingGloryWallpaper.coverage" NAME="KingGloryWallpaper Coverage Results" MODIFIED="1516627934343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/python-crawler" />
+    <SUITE FILE_PATH="coverage/FirstPython$crawler_shaoit_com.coverage" NAME="crawler-shaoit.com Coverage Results" MODIFIED="1514526717143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/python-crawler" />
+    <SUITE FILE_PATH="coverage/FirstPython$python_threading_queue.coverage" NAME="python-threading-queue Coverage Results" MODIFIED="1516595750108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/python-base" />
+    <SUITE FILE_PATH="coverage/FirstPython$python_threading.coverage" NAME="python-threading Coverage Results" MODIFIED="1516546734969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/python-base" />
+    <SUITE FILE_PATH="coverage/FirstPython$gushici_.coverage" NAME="gushici  Coverage Results" MODIFIED="1516360815619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/python-storage/python-excel" />
     <SUITE FILE_PATH="coverage/FirstPython$mzitu.coverage" NAME="mzitu Coverage Results" MODIFIED="1514527117365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/python-crawler" />
-    <SUITE FILE_PATH="coverage/FirstPython$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1515499584188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz" />
+    <SUITE FILE_PATH="coverage/FirstPython$gushici.coverage" NAME="gushici Coverage Results" MODIFIED="1516348640153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/test" />
     <SUITE FILE_PATH="coverage/FirstPython$addXmasHat.coverage" NAME="addXmasHat Coverage Results" MODIFIED="1514735381332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/face_recognition" />
     <SUITE FILE_PATH="coverage/FirstPython$crawler_mysql.coverage" NAME="crawler_mysql Coverage Results" MODIFIED="1514395736528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/python-mysql" />
+    <SUITE FILE_PATH="coverage/FirstPython$NeteaseMusic.coverage" NAME="NeteaseMusic Coverage Results" MODIFIED="1516104955204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/tlz/python-crawler" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -35,36 +105,19 @@
     <expand />
     <select />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="FirstPython" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/tlz/python-weixin/__init__.py">
+      <file leaf-file-name="KingGloryWallpaper.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/tlz/python-crawler/KingGloryWallpaper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="503">
+              <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
               <folding>
-                <element signature="e#16#29#0" expanded="true" />
+                <element signature="e#0#24#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/tlz/python-crawler/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mzitu.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/tlz/python-crawler/mzitu.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2090">
-              <caret line="114" column="8" lean-forward="false" selection-start-line="114" selection-start-column="4" selection-end-line="114" selection-end-column="8" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -72,65 +125,92 @@
       <file leaf-file-name="meizitu.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com/tlz/python-crawler/meizitu.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="346" column="28" lean-forward="false" selection-start-line="346" selection-start-column="28" selection-end-line="346" selection-end-column="28" />
+            <state relative-caret-position="-196">
+              <caret line="78" column="5" lean-forward="true" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NeteaseMusic.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/com/tlz/python-crawler/NeteaseMusic.py">
+      <file leaf-file-name="qq_all.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/tlz/python-qq/qq_all.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="-506">
+              <caret line="29" column="12" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="addXmasHat.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/tlz/face_recognition/addXmasHat.py">
+      <file leaf-file-name="python-logqq.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/tlz/python-qq/python-logqq.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="323">
+              <caret line="37" column="50" lean-forward="false" selection-start-line="37" selection-start-column="50" selection-end-line="37" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="codecs.py" pinned="false" current-in-tab="false">
-        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/codecs.py">
+      <file leaf-file-name="get_all_qqfriends.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/com/tlz/python-qq/get_all_qqfriends.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4940">
-              <caret line="260" column="46" lean-forward="false" selection-start-line="247" selection-start-column="0" selection-end-line="303" selection-end-column="30" />
+            <state relative-caret-position="399">
+              <caret line="25" column="12" lean-forward="false" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/tlz/face_recognition/2.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="qq_single.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/tlz/python-qq/qq_single.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+              <folding>
+                <element signature="e#15#45#0" expanded="true" />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/tlz/test/test.py">
+      <file leaf-file-name="python-vars.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/tlz/python-base/python-vars.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="14" column="54" lean-forward="false" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+            <state relative-caret-position="114">
+              <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="python-string.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/tlz/python-base/python-string.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="python-osAndsys.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/tlz/python-base/python-osAndsys.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/echarts/__init__.py">
+        <entry file="file://$PROJECT_DIR$/com/tlz/python-wordcloud/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1843">
-              <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+            <state relative-caret-position="76">
+              <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -146,6 +226,15 @@
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>往事</find>
+      <find>不要说话</find>
+      <find>不要</find>
+      <find>测试</find>
+      <find>python3</find>
+      <find>page_next_1</find>
+      <find>__fi</find>
+    </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
@@ -156,7 +245,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/com.tlz.test/test.py" />
         <option value="$PROJECT_DIR$/face_recognition/addXmasHat.py" />
         <option value="$PROJECT_DIR$/com/tlz/python-mysql/__init__.py" />
         <option value="$PROJECT_DIR$/com/tlz/python-mysql/python-crud.py" />
@@ -164,13 +252,50 @@
         <option value="$PROJECT_DIR$/com/tlz/python-crawler/mzitu.py" />
         <option value="$PROJECT_DIR$/com/tlz/python-crawler/meizitu.py" />
         <option value="$PROJECT_DIR$/com/tlz/python-crawler/soup_analyse.html" />
-        <option value="$PROJECT_DIR$/com/tlz/test/regex.py" />
         <option value="$PROJECT_DIR$/com/tlz/python-crawler/crawler-shaoit.com.py" />
         <option value="$PROJECT_DIR$/com/python-weixin/__init__.py" />
         <option value="$PROJECT_DIR$/com/tlz/face_recognition/addXmasHat.py" />
-        <option value="$PROJECT_DIR$/com/tlz/python-crawler/__init__.py" />
         <option value="$PROJECT_DIR$/com/tlz/__init__.py" />
+        <option value="$PROJECT_DIR$/com/tlz/python-crawler/huaban.py" />
+        <option value="$PROJECT_DIR$/com/tlz/python-crawler/__init__.py" />
+        <option value="$PROJECT_DIR$/com/tlz/test/json.py" />
+        <option value="$PROJECT_DIR$/com/tlz/python-storage/python-txt/__init__.py" />
+        <option value="$PROJECT_DIR$/com/tlz/python-crawler/tt" />
+        <option value="$PROJECT_DIR$/com/tlz/test/wordcloud.py" />
+        <option value="$PROJECT_DIR$/com/tlz/test/word_cloud.py" />
+        <option value="$PROJECT_DIR$/com/tlz/python-wordcloud/__init__.py" />
+        <option value="$PROJECT_DIR$/com/tlz/python-QQ/__init__.py" />
+        <option value="$PROJECT_DIR$/com/tlz/test/__init__.py" />
+        <option value="$PROJECT_DIR$/com/tlz/test/selenium_phantomjs.py" />
+        <option value="$PROJECT_DIR$/com/tlz/test/qq.py" />
+        <option value="$PROJECT_DIR$/com/tlz/python-storage/python-excel/__init__.py" />
+        <option value="$PROJECT_DIR$/com/tlz/python-storage/python-excel/python-excel-test.py" />
+        <option value="$PROJECT_DIR$/com/tlz/python-base/data_structure.py" />
+        <option value="$PROJECT_DIR$/com/tlz/test/regex.py" />
+        <option value="$PROJECT_DIR$/com/tlz/python-storage/python-excel/python-excel.py" />
+        <option value="$PROJECT_DIR$/com/tlz/test/array.py" />
+        <option value="$PROJECT_DIR$/com/tlz/test/gushi.py" />
+        <option value="$PROJECT_DIR$/com/tlz/test/gushici.py" />
+        <option value="$PROJECT_DIR$/com/tlz/python-storage/python-excel/gushici.py" />
+        <option value="$PROJECT_DIR$/com/tlz/python-base/python-print.py" />
+        <option value="$PROJECT_DIR$/com/tlz/python-qq/rizhishuoshuo.py" />
+        <option value="$PROJECT_DIR$/com/tlz/python-base/python-vars.py" />
+        <option value="$PROJECT_DIR$/com/tlz/test/temp.py" />
+        <option value="$PROJECT_DIR$/com/tlz/python-base/temp.py" />
+        <option value="$PROJECT_DIR$/com/tlz/python-base/python-threading.py" />
+        <option value="$PROJECT_DIR$/com/tlz/test/selenium_chrome.py" />
+        <option value="$PROJECT_DIR$/com/tlz/python-base/python-threading-queue.py" />
+        <option value="$PROJECT_DIR$/com/tlz/test/cookie_login.py" />
         <option value="$PROJECT_DIR$/com/tlz/python-crawler/NeteaseMusic.py" />
+        <option value="$PROJECT_DIR$/com/tlz/test/test.py" />
+        <option value="$PROJECT_DIR$/com/tlz/python-wordcloud/word_cloud.py" />
+        <option value="$PROJECT_DIR$/com/tlz/python-base/python-osAndsys.py" />
+        <option value="$PROJECT_DIR$/com/tlz/python-base/python-string.py" />
+        <option value="$PROJECT_DIR$/com/tlz/python-crawler/KingGloryWallpaper.py" />
+        <option value="$PROJECT_DIR$/com/tlz/python-qq/qq_single.py" />
+        <option value="$PROJECT_DIR$/com/tlz/python-qq/qq_all.py" />
+        <option value="$PROJECT_DIR$/com/tlz/python-qq/python-logqq.py" />
+        <option value="$PROJECT_DIR$/com/tlz/python-qq/get_all_qqfriends.py" />
       </list>
     </option>
   </component>
@@ -180,9 +305,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="10" />
-    <option name="y" value="54" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="69" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -238,13 +363,6 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="tlz" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="FirstPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstPython" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="tlz" type="462c0819:PsiDirectoryNode" />
-              <item name="python-crawler" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -256,20 +374,26 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="typescript.show.imports.popup" value="false" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="ToolWindowDocumentation.ShowToolbar" value="false" />
+    <property name="ToolWindowInspection Results.ShowToolbar" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/com/tlz/python-crawler" />
-      <recent name="$PROJECT_DIR$/com/tlz/face_recognition" />
-      <recent name="$PROJECT_DIR$/face_recognition" />
+      <recent name="$PROJECT_DIR$/com/tlz/python-base" />
+      <recent name="$PROJECT_DIR$/com/tlz/python-storage/python-excel/data" />
+      <recent name="$PROJECT_DIR$/com/tlz/python-storage/python-excel" />
+      <recent name="$PROJECT_DIR$/com/tlz/python-wordcloud" />
+      <recent name="$PROJECT_DIR$/com/tlz/test" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/com/tlz/python-qq" />
+      <recent name="$PROJECT_DIR$/com/tlz/test" />
+      <recent name="$PROJECT_DIR$/com/tlz/python-wordcloud" />
+      <recent name="$PROJECT_DIR$/com/tlz/python-storage" />
       <recent name="$PROJECT_DIR$/com/tlz" />
-      <recent name="$PROJECT_DIR$/com/tlz/face_recognition" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -284,95 +408,116 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.__init__">
-    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.KingGloryWallpaper">
+    <configuration name="KingGloryWallpaper" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/tlz" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="FirstPython" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/tlz/__init__.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="addXmasHat" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/tlz/face_recognition" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="FirstPython" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/tlz/face_recognition/addXmasHat.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="crawler-shaoit.com" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="/usr/local/bin/python3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/tlz/python-crawler" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="FirstPython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/tlz/python-crawler/crawler-shaoit.com.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/tlz/python-crawler/KingGloryWallpaper.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="mzitu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="python-osAndsys" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/tlz/python-crawler" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/tlz/python-base" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="FirstPython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/tlz/python-crawler/mzitu.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/tlz/python-base/python-osAndsys.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Python.crawler-shaoit.com" />
-      <item index="1" class="java.lang.String" itemvalue="Python.addXmasHat" />
-      <item index="2" class="java.lang.String" itemvalue="Python.mzitu" />
-      <item index="3" class="java.lang.String" itemvalue="Python.__init__" />
+    <configuration name="python-string" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/tlz/python-base" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FirstPython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/tlz/python-base/python-string.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/tlz/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FirstPython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/tlz/test/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="word_cloud" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/tlz/python-wordcloud" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FirstPython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/tlz/python-wordcloud/word_cloud.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.KingGloryWallpaper" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.word_cloud" />
+      <item index="3" class="java.lang.String" itemvalue="Python.python-osAndsys" />
+      <item index="4" class="java.lang.String" itemvalue="Python.python-string" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.__init__" />
-        <item index="1" class="java.lang.String" itemvalue="Python.addXmasHat" />
-        <item index="2" class="java.lang.String" itemvalue="Python.mzitu" />
-        <item index="3" class="java.lang.String" itemvalue="Python.crawler-shaoit.com" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.KingGloryWallpaper" />
+        <item index="1" class="java.lang.String" itemvalue="Python.python-string" />
+        <item index="2" class="java.lang.String" itemvalue="Python.python-osAndsys" />
+        <item index="3" class="java.lang.String" itemvalue="Python.word_cloud" />
+        <item index="4" class="java.lang.String" itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -404,33 +549,52 @@
       <option name="project" value="LOCAL" />
       <updated>1515984153897</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add netmusic">
+      <created>1515984185364</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1515984185364</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27459016" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33573487" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" x="599" y="95" width="241" height="666" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299712" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285151" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287841" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847223" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" x="0" y="0" width="310" height="700" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31402832" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36268067" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="26" y="308" width="1388" height="283" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32818532" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32222223" sideWeight="0.4945355" order="0" side_tool="false" content_ui="tabs" x="599" y="95" width="241" height="666" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299712" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7326389" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" x="0" y="23" width="1440" height="877" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4180328" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25576368" sideWeight="0.5054645" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41811416" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32786885" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882884" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -458,6 +622,9 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -468,10 +635,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/com/tlz/test/test.py</url>
-          <line>113</line>
-        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/com/tlz/face_recognition/addXmasHat.py</url>
           <line>9</line>
@@ -488,12 +651,12 @@
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/com/tlz/python-mysql/python-crud.py</url>
+          <url>file://$PROJECT_DIR$/com/tlz/python-storage/python-mysql/python-crud.py</url>
           <line>127</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/com/tlz/python-mysql/crawler_mysql.py</url>
+          <url>file://$PROJECT_DIR$/com/tlz/python-storage/python-mysql/crawler_mysql.py</url>
           <line>39</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
@@ -507,6 +670,51 @@
           <line>8</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/tlz/python-crawler/NeteaseMusic.py</url>
+          <line>105</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/tlz/python-wordcloud/word_cloud.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/tlz/python-qq/qq_single.py</url>
+          <line>270</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/tlz/test/regex.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/tlz/python-storage/python-excel/gushici.py</url>
+          <line>189</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/tlz/python-qq/qq_single.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/tlz/python-base/temp.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/tlz/python-crawler/KingGloryWallpaper.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/tlz/python-crawler/KingGloryWallpaper.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -515,298 +723,363 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="23" />
+      <option name="time" value="71" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/com/tlz/face_recognition/__init__.py" />
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/PIL/Image.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/xlwt/Row.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1919">
-          <caret line="101" column="13" lean-forward="false" selection-start-line="101" selection-start-column="13" selection-end-line="101" selection-end-column="13" />
+        <state relative-caret-position="156">
+          <caret line="153" column="0" lean-forward="false" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/tlz/test/test.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/xlwt/Worksheet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="156">
+          <caret line="1087" column="0" lean-forward="false" selection-start-line="1087" selection-start-column="0" selection-end-line="1087" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/tlz/test/test.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/xlwt/Workbook.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="-289">
+          <caret line="49" column="7" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/tlz/test/test.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/xlwt/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="38">
+          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/tlz/test/test.py">
+    <entry file="file://$PROJECT_DIR$/com/tlz/python-base/data_structure.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="157">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/tlz/test/test.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/xlrd/sheet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="133">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/tlz/test/test.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/xlrd/book.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="133">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/tlz/test/test.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/xlrd/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="399">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/1437855905/builtins.py" />
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/PIL/__init__.py">
+    <entry file="file://$PROJECT_DIR$/com/tlz/test/gushi.py" />
+    <entry file="file://$PROJECT_DIR$/com/tlz/test/gushici.py" />
+    <entry file="file://$PROJECT_DIR$/com/tlz/python-storage/python-excel/python-excel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-968">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="1824">
+          <caret line="102" column="2" lean-forward="false" selection-start-line="102" selection-start-column="2" selection-end-line="102" selection-end-column="2" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/tlz/face_recognition/__init__.py" />
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/tlz/face_recognition/1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/tlz/face_recognition/3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/tlz/face_recognition/4.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/tlz/face_recognition/5.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/PIL/Image.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4328">
-          <caret line="2498" column="4" lean-forward="false" selection-start-line="2498" selection-start-column="4" selection-end-line="2498" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2475abea-846d-4a86-9b8d-acabc474e594/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/face_recognition/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2283">
-          <caret line="72" column="4" lean-forward="false" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/tlz/python-mysql/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/tlz/python-mysql/python-crud.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-36">
-          <caret line="30" column="28" lean-forward="false" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/tlz/python-crawler/picHub/206411589.jpg" />
-    <entry file="file://$PROJECT_DIR$/com/tlz/python-crawler/picHub/212946705.jpg" />
-    <entry file="file://$PROJECT_DIR$/com/tlz/python-crawler/soup_learn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/tlz/python-crawler/soup_analyse.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="53" column="10" lean-forward="true" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/tlz/test/regex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/tlz/python-mysql/crawler_mysql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="613">
-          <caret line="49" column="16" lean-forward="true" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/tlz/python-crawler/picHub/204765314.jpg" />
-    <entry file="file://$PROJECT_DIR$/com/tlz/python-crawler/picHub/1264961192.jpg" />
-    <entry file="file://$PROJECT_DIR$/com/tlz/python-crawler/picHub/1267733649.jpg" />
-    <entry file="file://$PROJECT_DIR$/com/tlz/python-crawler/picHub/1275236940.jpg" />
-    <entry file="file://$PROJECT_DIR$/com/tlz/python-crawler/picHub/1279659169.jpg" />
-    <entry file="file://$PROJECT_DIR$/com/tlz/python-crawler/picHub/1279824378.jpg" />
-    <entry file="file://$PROJECT_DIR$/com/tlz/python-crawler/picHub/1282343138.jpg" />
-    <entry file="file://$PROJECT_DIR$/com/tlz/python-crawler/picHub/1283160993.jpg" />
-    <entry file="file://$PROJECT_DIR$/com/tlz/python-crawler/crawler-shaoit.com.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/tlz/python-crawler/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/tlz/python-crawler/huaban.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/encodings/ascii.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/echarts/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1843">
-          <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/tlz/face_recognition/2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4940">
-          <caret line="260" column="46" lean-forward="false" selection-start-line="247" selection-start-column="0" selection-end-line="303" selection-end-column="30" />
-          <folding />
+        <state relative-caret-position="5852">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/tlz/face_recognition/addXmasHat.py">
+    <entry file="file://$PROJECT_DIR$/com/tlz/python-storage/python-excel/python-excel-test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="1976">
+          <caret line="112" column="20" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="112" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/tlz/test/test.py">
+    <entry file="file://$PROJECT_DIR$/com/tlz/python-storage/python-excel/gushici.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="14" column="54" lean-forward="false" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+        <state relative-caret-position="3135">
+          <caret line="181" column="0" lean-forward="false" selection-start-line="181" selection-start-column="0" selection-end-line="181" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/tlz/python-weixin/__init__.py">
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/1437855905/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4160" column="32" lean-forward="false" selection-start-line="4160" selection-start-column="32" selection-end-line="4160" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tlz/python-base/python-print.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tlz/python-qq/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tlz/test/temp.py" />
+    <entry file="file://$PROJECT_DIR$/com/tlz/python-base/temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding>
-            <element signature="e#16#29#0" expanded="true" />
+            <element signature="e#381#409#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/tlz/python-crawler/__init__.py">
+    <entry file="file://$PROJECT_DIR$/com/tlz/python-base/python-threading.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="169">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tlz/test/json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tlz/test/array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tlz/test/ghostdriver.log" />
+    <entry file="file://$PROJECT_DIR$/com/tlz/test/geckodriver.log" />
+    <entry file="file://$PROJECT_DIR$/com/tlz/test/selenium_phantomjs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="678" column="0" lean-forward="false" selection-start-line="678" selection-start-column="0" selection-end-line="678" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/tlz/python-crawler/mzitu.py">
+    <entry file="file://$PROJECT_DIR$/com/tlz/test/selenium_chrome.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2090">
-          <caret line="114" column="8" lean-forward="false" selection-start-line="114" selection-start-column="4" selection-end-line="114" selection-end-column="8" />
-          <folding />
+        <state relative-caret-position="241">
+          <caret line="14" column="49" lean-forward="true" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/tlz/python-crawler/meizitu.py">
+    <entry file="file://$PROJECT_DIR$/com/tlz/python-base/python-threading-queue.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="346" column="28" lean-forward="false" selection-start-line="346" selection-start-column="28" selection-end-line="346" selection-end-column="28" />
-          <folding />
+        <state relative-caret-position="219">
+          <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/tlz/__init__.py">
+    <entry file="file://$PROJECT_DIR$/com/tlz/python-crawler/crawler-shaoit.com.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-          <folding />
+        <state relative-caret-position="-87">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#96#111#0" expanded="true" />
+            <marker date="1514402128524" expanded="true" signature="591:618" ph="DROP TABLE I... " />
+            <marker date="1514402128524" expanded="true" signature="634:864" ph="CREATE TABLE... SHAOIT" />
+            <marker date="1514402128524" expanded="true" signature="1121:1242" ph="INSERT INTO SHAOIT... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6669">
+          <caret line="353" column="0" lean-forward="false" selection-start-line="353" selection-start-column="0" selection-end-line="353" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/json/decoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6384">
+          <caret line="338" column="0" lean-forward="false" selection-start-line="338" selection-start-column="0" selection-end-line="338" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/com/tlz/python-crawler/NeteaseMusic.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="75" column="13" lean-forward="false" selection-start-line="75" selection-start-column="13" selection-end-line="75" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1330">
+          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tlz/test/regex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tlz/test/cookie_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tlz/test/tt">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tlz/test/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tlz/python-wordcloud/ts.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12654">
+          <caret line="666" column="1" lean-forward="false" selection-start-line="666" selection-start-column="1" selection-end-line="666" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tlz/python-wordcloud/cutword.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tlz/python-wordcloud/word_cloud.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="44" column="17" lean-forward="false" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tlz/python-wordcloud/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tlz/python-base/python-osAndsys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tlz/python-base/python-string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tlz/python-base/python-vars.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tlz/python-crawler/image/冰冠公主-雅典娜/冰冠公主-雅典娜_1280x1024.jpg" />
+    <entry file="file://$PROJECT_DIR$/com/tlz/python-crawler/KingGloryWallpaper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tlz/python-crawler/meizitu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-196">
+          <caret line="78" column="5" lean-forward="true" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tlz/python-qq/qq_single.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+          <folding>
+            <element signature="e#15#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tlz/python-qq/qq_all.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-506">
+          <caret line="29" column="12" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tlz/python-qq/python-logqq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="37" column="50" lean-forward="false" selection-start-line="37" selection-start-column="50" selection-end-line="37" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tlz/python-qq/get_all_qqfriends.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="25" column="12" lean-forward="false" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
           <folding />
         </state>
       </provider>

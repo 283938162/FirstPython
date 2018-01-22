@@ -1,13 +1,9 @@
-'''
-var=input("输入一个数字：")
-print(var)
-var1=int(var)
-if var1>5:
-    print(var1)
-else:
-    print(-var1)
-'''
-import sys;
+import requests
+import json
 
-x = 'runoob';
-sys.stdout.write(x + '\n')
+url = 'http://music.163.com/api/song/lyric?'+ 'id=' + str(27566765)+ '&lv=1&kv=1&tv=-1'
+r = requests.get(url)
+json_obj = r.text
+
+j = json.loads(json_obj)
+print(j['lrc']['lyric'])

@@ -1,10 +1,44 @@
-
 import re
-var = '欧文 阅读278,95次 '
 
-var1 = '						国内世面上的下载工具，迅雷可谓一家独大，不过迅雷害怕步了快播的后尘，所以很多违规的资源并不敢再离线存放到自己的服务器。其他小众的下载工具...'
+var = '赞(5)'
 
-reg = r'\w+\d+\w'
-pi = re.findall(reg,var)
-print(var1)
-print(var1.strip())
+
+# 在Python中，None、空列表[]、空字典{}、空元组()、0等一系列代表空和无的对象会被转换成False。除此之外的其它对象都会被转化成True
+print(re.findall(r'\d+', var) )
+
+if re.findall(r'\d+', var):
+    like = re.findall(r'\d+', var)[0]
+else:
+    like = 0
+
+
+print(like)
+# print(var1)
+# print(var1.strip())
+
+
+
+
+
+# a="/song?id=354976"
+#
+# print(type(a))
+# print(filter(str.isdigit(),a))
+
+# string = '/song?id=354976'
+# # string2 = string.encode('gbk')
+# print(type(str))
+# print(filter(str.isdigit, '123asd'))
+
+# ly = """
+# [00:28.690]往事不要再提
+# [00:32.170]人生已多风雨
+# [00:36.580]纵然记忆抹不去
+# [00:38.670]爱与恨都还在心里
+# [00:43.840]真的要断了过去
+# """
+# print(ly)
+#
+# pat = re.compile(r'\[.*\]')
+# lrc = re.sub(pat,"",ly)
+# print(lrc.strip())
