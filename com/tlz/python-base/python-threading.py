@@ -25,7 +25,7 @@ deamon 守护线程不起作用
 # t1 = threading.Thread(target=music, args=('A',))
 # threads.append(t1)
 #
-# t2 = threading.Thread(target=move, args=('B',))
+# t2 =
 # threads.append(t2)
 #
 # if __name__ == '__main__':

@@ -2,9 +2,9 @@ from PIL import Image
 import face_recognition
 
 # https://zhuanlan.zhihu.com/p/32299758
-img_path = input("image path:")
+# img_path = input("image path:")
 
-# img_path = './2.jpg'
+img_path = 'image/wh.jpg'
 
 image = face_recognition.load_image_file(img_path)
 face_locations = face_recognition.face_locations(image)
@@ -13,7 +13,7 @@ print("Found {} face(s) in this photograph.".format(len(face_locations)))
 human_img = Image.open(img_path)
 human_img = human_img.convert("RGBA")
 
-hat_img = Image.open("./hat.png")
+hat_img = Image.open("image/hat.png")
 hat_img = hat_img.convert("RGBA")
 
 for face_location in face_locations:

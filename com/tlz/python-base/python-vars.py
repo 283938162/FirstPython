@@ -1,4 +1,3 @@
-
 '''
 python 变量 作用域🌧
 
@@ -9,6 +8,33 @@ if、try、for等语句并不会产生新的作用域。
 首先是本地，然后是函数内（如果有的话），之后是全局，最后是内置。
 '''
 
-for i in range(3):
-    print(i)
-print('i = ', i)
+# var = None
+# print(type(var))
+#
+# if var:
+# 	print('tt')
+
+
+var = []
+print(var)
+print(type(var))
+
+print(var == None)
+print(var == False)
+print(None == False)
+
+
+# 难道空位None 只有在逻辑判断的时候才能用？
+if var:
+	print('var')
+
+# for i in range(3):
+#     print(i)
+# print('i = ', i)
+
+
+# 怎么去掉\n
+
+
+# str = '\n-1℃\n';
+# print(str.replace('\n',''))

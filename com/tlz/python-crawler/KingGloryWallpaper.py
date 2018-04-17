@@ -7,6 +7,8 @@ import sys
 import os
 
 saveFolder = 'image'
+
+# 为什么这么构造list
 imageSizeName = [None, None, '1024x768', '1280x720', '1280x1024', '1440x900', '1920x1080', '1920x1200', '1920x1440']
 
 workList_url = "http://apps.game.qq.com/cgi-bin/ams/module/ishow/V1.0/query/workList_inc.cgi"
@@ -16,8 +18,9 @@ workList_url = "http://apps.game.qq.com/cgi-bin/ams/module/ishow/V1.0/query/work
 http%3A%2F%2Fshp%2Eqpic%2Ecn%2Fishow%2F2735012211%2F1516590355%5F84828260%5F8310%5FsProdImgNo%5F1%2Ejpg%2F200
 数据在传输过程中进行了加密 urllib.parse.quote(url)  解析处理过的urllib.parse.unquote(url)
 
-'''
+数据保存的形式
 
+'''
 
 def get_list(page_id):
     # 参数集合 是字典形式
@@ -89,6 +92,7 @@ def download_list(list):
             image_url = image_rawurl.replace('/200', '/0')
             print(image_url)
 
+            # 文件路径 = 当前路径 + 保存文件的当前文件夹路径+文件路径（文件夹路径_编号）
             image_savepath = os.path.join(sys.path[0], saveFolder, item['sProdName'],
                                           item['sProdName'] + '_' + imageSizeName[i] + '.jpg')
             if download_img(image_url, image_savepath):
@@ -96,6 +100,6 @@ def download_list(list):
 
 
 if __name__ == '__main__':
-    for i in range(1):
+    for i in range(12):
         list = get_list(i)
         download_list(list)

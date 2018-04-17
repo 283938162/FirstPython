@@ -1,0 +1,12 @@
+# list_example = '''
+# list_example = [<Chatroom: {'MemberList': <ContactList: [<ChatroomMember: {'MemberList': <ContactList: []>, 'Uin': 0, 'UserName': '@58c39a7d5adafb56d67f0fa0d3096c93c2d840a2f3e438e864c53a81bf76b264', 'NickName': '1px', 'AttrStatus': 33652775, 'PYInitial': '', 'PYQuanPin': '', 'RemarkPYInitial': '', 'RemarkPYQuanPin': '', 'MemberStatus': 0, 'DisplayName': '', 'KeyWord': ''}>, <ChatroomMember: {'MemberList': <ContactList: []>, 'Uin': 0, 'UserName': '@d7abaaf063d597fdcf7f50e27c653b2546c569a908c6c0761b55bce444a70c94', 'NickName': 'MiSu@', 'AttrStatus': 99429, 'PYInitial': '', 'PYQuanPin': '', 'RemarkPYInitial': '', 'RemarkPYQuanPin': '', 'MemberStatus': 0, 'DisplayName': '', 'KeyWord': ''}>, <ChatroomMember: {'MemberList': <ContactList: []>, 'Uin': 0, 'UserName': '@33c30e77a1e281be632b8d077da1cfd3412a70b5a4b51349599d600dd259134a', 'NickName': 'alpha-beta', 'AttrStatus': 33587299, 'PYInitial': '', 'PYQuanPin': '', 'RemarkPYInitial': '', 'RemarkPYQuanPin': '', 'MemberStatus': 0, 'DisplayName': '', 'KeyWord': ''}>]>, 'Uin': 0, 'UserName': '@@e5cc0e5ce7161a12d75f061d9f1b3610f1c9f61f882da52d8fe19733b03bce1a', 'NickName': 'Python测试', 'HeadImgUrl': '/cgi-bin/mmwebwx-bin/webwxgetheadimg?seq=0&username=@@e5cc0e5ce7161a12d75f061d9f1b3610f1c9f61f882da52d8fe19733b03bce1a&skey=@crypt_147af643_7b9910192bb48c7209f7896acf2fca57', 'ContactFlag': 3, 'MemberCount': 3, 'RemarkName': '', 'HideInputBarFlag': 0, 'Sex': 0, 'Signature': '', 'VerifyFlag': 0, 'OwnerUin': 0, 'PYInitial': 'PYTHONCS', 'PYQuanPin': 'Pythonceshi', 'RemarkPYInitial': '', 'RemarkPYQuanPin': '', 'StarFriend': 0, 'AppAccountFlag': 0, 'Statues': 1, 'AttrStatus': 0, 'Province': '', 'City': '', 'Alias': '', 'SnsFlag': 0, 'UniFriend': 0, 'DisplayName': '', 'ChatRoomId': 0, 'KeyWord': '', 'EncryChatRoomId': '', 'IsOwner': 1, 'IsAdmin': None, 'Self': <ChatroomMember: {'MemberList': <ContactList: []>, 'Uin': 0, 'UserName': '@33c30e77a1e281be632b8d077da1cfd3412a70b5a4b51349599d600dd259134a', 'NickName': 'alpha-beta', 'AttrStatus': 33587299, 'PYInitial': '', 'PYQuanPin': '', 'RemarkPYInitial': '', 'RemarkPYQuanPin': '', 'MemberStatus': 0, 'DisplayName': '', 'KeyWord': ''}>, 'HeadImgUpdateFlag': 1, 'ContactType': 0, 'ChatRoomOwner': '@33c30e77a1e281be632b8d077da1cfd3412a70b5a4b51349599d600dd259134a'}>]
+# '''
+#
+# print(type(list_example))
+
+a_list = []
+
+if not a_list:
+	print('列表为空')
+else:
+	print(a_list.pop())
