@@ -1,0 +1,8 @@
+mysqlInfo = {
+    "host": '39.108.231.238',
+    "user": 'aliyun',
+    "passwd": 'liu@2014',
+    "dbname": 'DBTest',
+    "port": 3306,
+    "charset": 'utf8'
+}
